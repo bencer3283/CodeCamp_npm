@@ -15,5 +15,5 @@
 	"description": "A project to learn using Node.js to build backend.",
 	"keywords": ["freecodecamp", "Posheng", "Npm"],
 	"license": "MIT",
-	"version": "0.0.0"
+	"version": "1.0.0"
 }
