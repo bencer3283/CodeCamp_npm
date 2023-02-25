@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Ben Cheng",
-	"description": "A project to learn using Node.js to build backend."
+	"description": "A project to learn using Node.js to build backend.",
+	"keywords": ["freecodecamp", "Posheng", "Npm"]
 }
