@@ -13,5 +13,6 @@
 	},
 	"author": "Ben Cheng",
 	"description": "A project to learn using Node.js to build backend.",
-	"keywords": ["freecodecamp", "Posheng", "Npm"]
+	"keywords": ["freecodecamp", "Posheng", "Npm"],
+	"license": "MIT"
 }
