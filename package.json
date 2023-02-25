@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Ben Cheng"
+	"author": "Ben Cheng",
+	"description": "A project to learn using Node.js to build backend."
 }
